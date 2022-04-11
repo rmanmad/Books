@@ -1,0 +1,3 @@
+Software Architecture in Practice (SEI Series in Software Engineering) 4th Edition
+Documenting Software Architectures: Views and Beyond 2nd Edition
+Designing Software Architectures: A Practical Approach (SEI Series in Software Engineering)
